@@ -6,5 +6,9 @@
 <body>
 	<h1>Hello Word</h1>
 	<p>Ini paragraf untuk coba committan yang kedua</p>
+	<ul>
+		<li>Contoh 1</li>
+		<li>Contoh 2</li>
+	</ul>
 </body>
 </html>
